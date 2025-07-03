@@ -1,5 +1,10 @@
 # [free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api)
 
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+
+[亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/zh?from=github)
+[亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png))
+
 
 
 ## 一、支持
